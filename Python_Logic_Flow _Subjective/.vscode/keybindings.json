@@ -1,0 +1,12 @@
+[
+  {
+    "key": "ctrl+alt+r",
+    "command": "multiCommand.runAndFocusTerminal",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+f5",
+    "command": "multiCommand.runAndFocusTerminal",
+    "when": "editorTextFocus"
+  }
+]
